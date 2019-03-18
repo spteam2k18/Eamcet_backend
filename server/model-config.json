@@ -38,5 +38,9 @@
   "urModel": {
     "dataSource": "mongo",
     "public": true
+  },
+  "backupdata": {
+    "dataSource": "mongo",
+    "public": true
   }
 }
